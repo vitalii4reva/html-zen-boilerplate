@@ -1,0 +1,16 @@
+{
+  "name": "html-zen-boilerplate",
+  "version": "1.0.0",
+  "description": "html zen boilerplate",
+  "main": "index.js",
+  "repository": "git@github.com:zenway-js/html-zen-boilerplate.git",
+  "author": "Vitalii Petrenko <zenway.js@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "require-dir": "^0.3.2",
+    "run-sequence": "^2.2.0",
+    "webpack": "^3.10.0"
+  }
+}
